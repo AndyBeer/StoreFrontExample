@@ -1,0 +1,14 @@
+C:\Users\abeer\source\repos\Practice Code\10-19\Object\ObjectPractice\ObjectPractice\bin\Debug\netcoreapp3.1\ObjectPractice.exe
+C:\Users\abeer\source\repos\Practice Code\10-19\Object\ObjectPractice\ObjectPractice\bin\Debug\netcoreapp3.1\ObjectPractice.deps.json
+C:\Users\abeer\source\repos\Practice Code\10-19\Object\ObjectPractice\ObjectPractice\bin\Debug\netcoreapp3.1\ObjectPractice.runtimeconfig.json
+C:\Users\abeer\source\repos\Practice Code\10-19\Object\ObjectPractice\ObjectPractice\bin\Debug\netcoreapp3.1\ObjectPractice.runtimeconfig.dev.json
+C:\Users\abeer\source\repos\Practice Code\10-19\Object\ObjectPractice\ObjectPractice\bin\Debug\netcoreapp3.1\ObjectPractice.dll
+C:\Users\abeer\source\repos\Practice Code\10-19\Object\ObjectPractice\ObjectPractice\bin\Debug\netcoreapp3.1\ObjectPractice.pdb
+C:\Users\abeer\source\repos\Practice Code\10-19\Object\ObjectPractice\ObjectPractice\obj\Debug\netcoreapp3.1\ObjectPractice.csproj.AssemblyReference.cache
+C:\Users\abeer\source\repos\Practice Code\10-19\Object\ObjectPractice\ObjectPractice\obj\Debug\netcoreapp3.1\ObjectPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abeer\source\repos\Practice Code\10-19\Object\ObjectPractice\ObjectPractice\obj\Debug\netcoreapp3.1\ObjectPractice.AssemblyInfoInputs.cache
+C:\Users\abeer\source\repos\Practice Code\10-19\Object\ObjectPractice\ObjectPractice\obj\Debug\netcoreapp3.1\ObjectPractice.AssemblyInfo.cs
+C:\Users\abeer\source\repos\Practice Code\10-19\Object\ObjectPractice\ObjectPractice\obj\Debug\netcoreapp3.1\ObjectPractice.csproj.CoreCompileInputs.cache
+C:\Users\abeer\source\repos\Practice Code\10-19\Object\ObjectPractice\ObjectPractice\obj\Debug\netcoreapp3.1\ObjectPractice.dll
+C:\Users\abeer\source\repos\Practice Code\10-19\Object\ObjectPractice\ObjectPractice\obj\Debug\netcoreapp3.1\ObjectPractice.pdb
+C:\Users\abeer\source\repos\Practice Code\10-19\Object\ObjectPractice\ObjectPractice\obj\Debug\netcoreapp3.1\ObjectPractice.genruntimeconfig.cache
